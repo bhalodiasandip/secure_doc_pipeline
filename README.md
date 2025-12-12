@@ -14,6 +14,8 @@ This project simulates a secure offline pipeline that converts PDF-extracted tex
 Create and activate your venv, then:
 ```bash
 pip install -r requirements.txt
-
-## Running the Pipeline
+```
+## Run Script
+```bash
 python run_pipeline.py
+```
